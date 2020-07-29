@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am passionate about leveraging technologies to innovate and improve business functionalities. Helping businesses develop highly scalable full stack solutions for automating the manual process and deliver better client experience.
+I am passionate about leveraging technologies to innovate and improve business functionalities. Helping businesses develop highly scalable full stack solutions for automating the manual process and deliver better client experience.
 
 <!--
 **NipunSood/NipunSood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
